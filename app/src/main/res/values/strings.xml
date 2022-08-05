@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Birthday Card</string>
+    <string name="hb_cat">Joyeux anniversaire Chat !</string>
+    <string name="from_romain">De la part de Romain</string>
 </resources>
